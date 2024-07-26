@@ -1,7 +1,6 @@
 # DS_Industrial-Copper-Modeling
-
-Problem Statement
-    The copper industry faces challenges in managing sales and pricing data, which can often be skewed and noisy, leading to inaccurate manual predictions. Addressing these issues manually is both time-consuming and may not yield the best pricing decisions. A machine learning regression model can overcome these challenges by applying techniques such as data normalization, feature scaling, and outlier detection, along with using algorithms robust to skewed and noisy data.
+#Problem Statement 
+The copper industry faces challenges in managing sales and pricing data, which can often be skewed and noisy, leading to inaccurate manual predictions. Addressing these issues manually is both time-consuming and may not yield the best pricing decisions. A machine learning regression model can overcome these challenges by applying techniques such as data normalization, feature scaling, and outlier detection, along with using algorithms robust to skewed and noisy data.
 
     Another challenge in the copper industry is lead management. A lead classification model can evaluate and classify leads based on their likelihood of becoming customers. Using the STATUS variable, with WON indicating success and LOST indicating failure, you can filter out data points with other status values.
 
@@ -67,4 +66,7 @@ Problem Statement
     Development of interactive web applications using Streamlit.
     Insights into manufacturing domain challenges and solutions through machine learning.
     This project equips you with practical skills in data analysis, machine learning modeling, and web application development, providing a solid foundation for solving real-world problems in the manufacturing domain.
-    
+
+
+   
+   
